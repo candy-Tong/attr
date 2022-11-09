@@ -29,7 +29,8 @@
   "dependencies": {
     "@antv/util": "~2.0.0",
     "tslib": "^1.10.0",
-    "@antv/color-util": "^2.0.1"
+    "@antv/color-util": "^2.0.1",
+    "@antv/scale": "^0.3.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.18",
@@ -37,7 +38,6 @@
     "jest-electron": "^0.1.7",
     "jest-extended": "^0.11.2",
     "ts-jest": "^24.1.0",
-    "@antv/scale": "^0.3.0",
     "husky": "^3.0.4",
     "lint-staged": "^9.2.3",
     "npm-run-all": "^4.1.5",
